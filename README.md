@@ -6,17 +6,17 @@
 
 <h4 style="text-align:center; margin-left:-20;">
   
-I’m interested in **gaming, technology, hardware**
+I’m interested in **gaming, technology, hardware.**
 
-My hobbies are **softball, programming, F1, photography, baking**
+My hobbies are **softball, programming, F1, photography, baking.**
 
-I’m currently learning **C# & HTML + CSS**
+I’m currently learning **C# & HTML + CSS.**
   
 </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/g._.dzila_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@g._.dzila_" height="30" width="40" /></a>
-<a href="https://discord.gg/godzila_87" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="godzila_87" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/792451506384404511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="godzila_87" height="30" width="40" /></a>
 </p> 
 
 
